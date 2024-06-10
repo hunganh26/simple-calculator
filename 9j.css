@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+button {
+    border-radius: 30px;
+    background-color:#454545;
+    color: aliceblue;
+    border: none;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+button:hover {
+    background-color:green;
+}
+.calculation {
+    border: solid 1px;
+    border-color: white;
+    padding: 10px;
+    margin-right: 565px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+.operator {
+    background-color: orange;
+}
